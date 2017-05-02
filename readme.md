@@ -1,1 +1,1 @@
-This is a storage repository for programming contest solutions and algorithms written in the past.
+This repository is for storing common algorithms and solutions for programming contests. Most solutions were implemented in C++ due to efficiency requirements in online judges.
