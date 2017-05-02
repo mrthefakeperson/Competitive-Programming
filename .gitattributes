@@ -16,4 +16,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-Facebook Hacker Cup/* linguist-vendored
+Facebook Hacker Cup/fhc 2017/* linguist-vendored
