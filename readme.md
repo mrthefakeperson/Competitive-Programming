@@ -1,0 +1,1 @@
+This is a storage repository for programming contest solutions and algorithms written in the past.
