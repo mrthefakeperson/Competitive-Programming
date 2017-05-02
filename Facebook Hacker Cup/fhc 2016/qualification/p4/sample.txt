@@ -1,0 +1,34 @@
+5
+3 3
+x
+y
+z
+2 1
+loooong
+tiny
+4 3
+fff
+fffff
+ff
+ffff
+5 3
+a
+hair
+box
+awesome
+hail
+8 6
+fox
+of
+xfox
+foo
+foxxx
+off
+foff
+foox
+
+Case #1: 9
+Case #2: 9
+Case #3: 11
+Case #4: 15
+Case #5: 26
